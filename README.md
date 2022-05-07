@@ -7,7 +7,7 @@ Hi everyone, these are my solutions, it may not be the most correct approach. Pl
 ### Hackerrank
 Challenge   |Difficulty | Solution |
 :----------:|:---------:|:--------:|
-[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)|Easy| [C#]()|
+[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)|Easy| [C#](https://github.com/ademguney/AlgorithmExercises/blob/main/HackerRank/Easy/SalesByMatch/Program.cs)|
 
 ### LeetCode
 Challenge   |Difficulty | Solution |
