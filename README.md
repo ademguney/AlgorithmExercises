@@ -12,6 +12,7 @@ Challenge   |Difficulty | Solution |
 ### LeetCode
 Challenge   |Difficulty | Solution |
 :----------:|:---------:|:--------:|
+[Two Sum](https://leetcode.com/problems/two-sum/)|Easy| [C#](https://github.com/ademguney/AlgorithmExercises/blob/main/LeetCode/Easy/TwoSum/Program.cs)|
 
 ### Google (Random Questions)
 Challenge   |Difficulty | Solution |
