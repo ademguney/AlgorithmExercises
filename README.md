@@ -1,4 +1,4 @@
-# Solutions for Hackerrank, LeetCode, Google(Random) challenges.
+# Solutions for Codility, Hackerrank, LeetCode, Google(Random) challenges.
 Hi everyone, these are my solutions, it may not be the most correct approach. Please do not hesitate to suggest.
 
 <p align="center">
