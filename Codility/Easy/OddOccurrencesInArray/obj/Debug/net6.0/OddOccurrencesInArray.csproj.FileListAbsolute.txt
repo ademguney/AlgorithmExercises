@@ -1,0 +1,15 @@
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\OddOccurrencesInArray\bin\Debug\net6.0\OddOccurrencesInArray.exe
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\OddOccurrencesInArray\bin\Debug\net6.0\OddOccurrencesInArray.deps.json
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\OddOccurrencesInArray\bin\Debug\net6.0\OddOccurrencesInArray.runtimeconfig.json
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\OddOccurrencesInArray\bin\Debug\net6.0\OddOccurrencesInArray.dll
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\OddOccurrencesInArray\bin\Debug\net6.0\ref\OddOccurrencesInArray.dll
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\OddOccurrencesInArray\bin\Debug\net6.0\OddOccurrencesInArray.pdb
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\OddOccurrencesInArray\obj\Debug\net6.0\OddOccurrencesInArray.csproj.AssemblyReference.cache
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\OddOccurrencesInArray\obj\Debug\net6.0\OddOccurrencesInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\OddOccurrencesInArray\obj\Debug\net6.0\OddOccurrencesInArray.AssemblyInfoInputs.cache
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\OddOccurrencesInArray\obj\Debug\net6.0\OddOccurrencesInArray.AssemblyInfo.cs
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\OddOccurrencesInArray\obj\Debug\net6.0\OddOccurrencesInArray.csproj.CoreCompileInputs.cache
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\OddOccurrencesInArray\obj\Debug\net6.0\OddOccurrencesInArray.dll
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\OddOccurrencesInArray\obj\Debug\net6.0\ref\OddOccurrencesInArray.dll
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\OddOccurrencesInArray\obj\Debug\net6.0\OddOccurrencesInArray.pdb
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\OddOccurrencesInArray\obj\Debug\net6.0\OddOccurrencesInArray.genruntimeconfig.cache

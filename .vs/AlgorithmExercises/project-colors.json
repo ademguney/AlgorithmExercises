@@ -120,7 +120,187 @@
       "ProjectGuid": "2d24fb65-902e-4c14-b9fb-fbf3a68a5708",
       "DisplayName": "TwoSum",
       "ColorIndex": 6
+    },
+    "49ecc68a-bbab-45b8-8772-050612d4e474": {
+      "ProjectGuid": "49ecc68a-bbab-45b8-8772-050612d4e474",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 7
+    },
+    "3f2d20af-8b35-4976-8576-86b80ca8adb7": {
+      "ProjectGuid": "3f2d20af-8b35-4976-8576-86b80ca8adb7",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 8
+    },
+    "7a76d75d-34d1-44a0-95b2-a3d425f63f47": {
+      "ProjectGuid": "7a76d75d-34d1-44a0-95b2-a3d425f63f47",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 9
+    },
+    "b99f79ca-787e-4289-8905-8c72d19050b1": {
+      "ProjectGuid": "b99f79ca-787e-4289-8905-8c72d19050b1",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 10
+    },
+    "2ae2e083-66d7-4afb-8bf5-6c85f89b05f7": {
+      "ProjectGuid": "2ae2e083-66d7-4afb-8bf5-6c85f89b05f7",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 11
+    },
+    "3d457fdf-a4d6-433d-9d05-32740d9ff4aa": {
+      "ProjectGuid": "3d457fdf-a4d6-433d-9d05-32740d9ff4aa",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 12
+    },
+    "1ff8c2c0-c4fc-40e2-882e-ce4d1e2ddac7": {
+      "ProjectGuid": "1ff8c2c0-c4fc-40e2-882e-ce4d1e2ddac7",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 13
+    },
+    "71df9a4e-989d-48af-bcf9-80d283e87ebf": {
+      "ProjectGuid": "71df9a4e-989d-48af-bcf9-80d283e87ebf",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 14
+    },
+    "aecb9f1f-e0fe-4018-8602-0c5f864ffd0f": {
+      "ProjectGuid": "aecb9f1f-e0fe-4018-8602-0c5f864ffd0f",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 15
+    },
+    "6558ac14-9078-40bd-9dfc-338fa7c3db62": {
+      "ProjectGuid": "6558ac14-9078-40bd-9dfc-338fa7c3db62",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 0
+    },
+    "99ab0a1c-d748-48cb-8dfe-458ec1131f8d": {
+      "ProjectGuid": "99ab0a1c-d748-48cb-8dfe-458ec1131f8d",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 1
+    },
+    "5558ab09-7c55-42fc-b0c5-811e12c1ead3": {
+      "ProjectGuid": "5558ab09-7c55-42fc-b0c5-811e12c1ead3",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 2
+    },
+    "0f78c1bb-f795-49fc-9db5-5b53ae964070": {
+      "ProjectGuid": "0f78c1bb-f795-49fc-9db5-5b53ae964070",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 3
+    },
+    "df9c8d79-29e2-4578-9c41-7b37ee2923bf": {
+      "ProjectGuid": "df9c8d79-29e2-4578-9c41-7b37ee2923bf",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 4
+    },
+    "bb8f907f-387b-4d32-aa87-4a76bf4fe91e": {
+      "ProjectGuid": "bb8f907f-387b-4d32-aa87-4a76bf4fe91e",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 5
+    },
+    "5736e827-849b-47cd-b34c-b818199b6d7f": {
+      "ProjectGuid": "5736e827-849b-47cd-b34c-b818199b6d7f",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 6
+    },
+    "26a5bdcb-2606-4278-baf6-368faba14ee3": {
+      "ProjectGuid": "26a5bdcb-2606-4278-baf6-368faba14ee3",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 7
+    },
+    "f8e102b2-e54c-4e5e-b85f-cafd8bf6b972": {
+      "ProjectGuid": "f8e102b2-e54c-4e5e-b85f-cafd8bf6b972",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 8
+    },
+    "d63c7816-fe8e-4632-883a-b6449a5d9dcd": {
+      "ProjectGuid": "d63c7816-fe8e-4632-883a-b6449a5d9dcd",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 9
+    },
+    "6958e444-337d-47c8-b954-20b3c7928091": {
+      "ProjectGuid": "6958e444-337d-47c8-b954-20b3c7928091",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 10
+    },
+    "df6504c2-b6f1-4564-830e-012df0a4a66b": {
+      "ProjectGuid": "df6504c2-b6f1-4564-830e-012df0a4a66b",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 11
+    },
+    "8834ef60-9df0-4a65-b23e-b578acfc1ba2": {
+      "ProjectGuid": "8834ef60-9df0-4a65-b23e-b578acfc1ba2",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 12
+    },
+    "8bba0df3-6b23-4bc2-8a4f-507e71735e37": {
+      "ProjectGuid": "8bba0df3-6b23-4bc2-8a4f-507e71735e37",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 13
+    },
+    "dd09a9ff-7c95-4332-b7cf-d2515451b80d": {
+      "ProjectGuid": "dd09a9ff-7c95-4332-b7cf-d2515451b80d",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 14
+    },
+    "7203dc0c-396a-4780-88e1-cb5b47eb2212": {
+      "ProjectGuid": "7203dc0c-396a-4780-88e1-cb5b47eb2212",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 15
+    },
+    "780fff62-d7dd-45f1-a959-bb8e13030b81": {
+      "ProjectGuid": "780fff62-d7dd-45f1-a959-bb8e13030b81",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 0
+    },
+    "2b76ab99-93f9-4a62-be07-62e46503e7cd": {
+      "ProjectGuid": "2b76ab99-93f9-4a62-be07-62e46503e7cd",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 1
+    },
+    "8ecd7cf5-0786-4c49-9e18-5128bb1bb166": {
+      "ProjectGuid": "8ecd7cf5-0786-4c49-9e18-5128bb1bb166",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 2
+    },
+    "9fad7b79-3061-4786-a7ea-cadb94a60a5a": {
+      "ProjectGuid": "9fad7b79-3061-4786-a7ea-cadb94a60a5a",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 3
+    },
+    "47f41999-7d8e-481c-8ab6-52c87ed6b5f2": {
+      "ProjectGuid": "47f41999-7d8e-481c-8ab6-52c87ed6b5f2",
+      "DisplayName": "VowelConsonants",
+      "ColorIndex": 4
+    },
+    "a0b8432a-efb4-4d06-b704-116420e85ff6": {
+      "ProjectGuid": "a0b8432a-efb4-4d06-b704-116420e85ff6",
+      "DisplayName": "VowelsConsonants",
+      "ColorIndex": 5
+    },
+    "d2094896-7f59-4ea1-b6c8-a1dcbfb6093b": {
+      "ProjectGuid": "d2094896-7f59-4ea1-b6c8-a1dcbfb6093b",
+      "DisplayName": "VowelsConsonants",
+      "ColorIndex": 6
+    },
+    "edbae92c-4294-431e-b0ff-a78a7910c0ec": {
+      "ProjectGuid": "edbae92c-4294-431e-b0ff-a78a7910c0ec",
+      "DisplayName": "VowelsConsonants",
+      "ColorIndex": 7
+    },
+    "cac94708-a3b9-44ea-9111-b6847338257d": {
+      "ProjectGuid": "cac94708-a3b9-44ea-9111-b6847338257d",
+      "DisplayName": "VowelsConsonants",
+      "ColorIndex": 8
+    },
+    "d158c503-965a-43ae-8548-f57fee3c0ada": {
+      "ProjectGuid": "d158c503-965a-43ae-8548-f57fee3c0ada",
+      "DisplayName": "VowelsConsonants",
+      "ColorIndex": 9
+    },
+    "96186d06-b47f-4282-9011-76ff22db5098": {
+      "ProjectGuid": "96186d06-b47f-4282-9011-76ff22db5098",
+      "DisplayName": "VowelsAndConsonants",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 11
 }
