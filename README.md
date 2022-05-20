@@ -24,7 +24,7 @@ Challenge   |Difficulty | Solution |
 ### Codility
 Challenge   |Difficulty | Solution |
 :----------:|:---------:|:--------:|
-[Odd Occurrences In Array](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/)|Easy| [C#](https://github.com/ademguney/AlgorithmExercises/blob/main/Codility/Easy/OddOccurrencesInArray/Program.cs))|
+[Odd Occurrences In Array](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/)|Easy| [C#](https://github.com/ademguney/AlgorithmExercises/blob/main/Codility/Easy/OddOccurrencesInArray/Program.cs)|
 
 ### Google (Random Questions)
 Challenge   |Difficulty | Solution |
