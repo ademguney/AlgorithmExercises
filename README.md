@@ -1,6 +1,13 @@
 # Solutions for Hackerrank, LeetCode, Google(Random) challenges.
 Hi everyone, these are my solutions, it may not be the most correct approach. Please do not hesitate to suggest.
 
+<p align="center">
+<h4> My Youtube Channel. </h4>
+  <a href="https://www.youtube.com/channel/UCoB3HN_hilvyM3VWPD4lqgg?sub_confirmation=1">
+      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCoB3HN_hilvyM3VWPD4lqgg?style=social "Click to Subscribe""/></a>
+
+</p>
+
 ### C# .Net Core 6 (Console Application)
 <p>We will do all the exercises through the <strong>.Net Core 6</strong> console application.</p>
 
@@ -12,6 +19,7 @@ Challenge   |Difficulty | Solution |
 ### LeetCode
 Challenge   |Difficulty | Solution |
 :----------:|:---------:|:--------:|
+[Two Sum](https://leetcode.com/problems/two-sum/)|Easy| [C#](https://github.com/ademguney/AlgorithmExercises/blob/main/LeetCode/Easy/TwoSum/Program.cs)|
 
 ### Google (Random Questions)
 Challenge   |Difficulty | Solution |
