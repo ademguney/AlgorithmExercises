@@ -39,7 +39,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hard", "Hard", "{60B8D967-1
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Medium", "Medium", "{6087ED73-2491-486A-B445-7CA55C5ED6EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOccurrencesInArray", "Codility\Easy\OddOccurrencesInArray\OddOccurrencesInArray.csproj", "{CE111961-E4DF-4DC8-A65B-EB6BA21A0ACF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OddOccurrencesInArray", "Codility\Easy\OddOccurrencesInArray\OddOccurrencesInArray.csproj", "{CE111961-E4DF-4DC8-A65B-EB6BA21A0ACF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrogJmp", "Codility\Easy\FrogJmp\FrogJmp.csproj", "{2E29D649-EFE5-4CF6-9AD2-5A86A8689458}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,6 +61,10 @@ Global
 		{CE111961-E4DF-4DC8-A65B-EB6BA21A0ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE111961-E4DF-4DC8-A65B-EB6BA21A0ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE111961-E4DF-4DC8-A65B-EB6BA21A0ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E29D649-EFE5-4CF6-9AD2-5A86A8689458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E29D649-EFE5-4CF6-9AD2-5A86A8689458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E29D649-EFE5-4CF6-9AD2-5A86A8689458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E29D649-EFE5-4CF6-9AD2-5A86A8689458}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -79,6 +85,7 @@ Global
 		{60B8D967-1772-4B07-B3B9-0B10829790FE} = {14E67CF7-8E87-45BB-8EE7-1B2FE4EC2EBA}
 		{6087ED73-2491-486A-B445-7CA55C5ED6EF} = {14E67CF7-8E87-45BB-8EE7-1B2FE4EC2EBA}
 		{CE111961-E4DF-4DC8-A65B-EB6BA21A0ACF} = {F36C1347-E12A-42F5-9CA8-10A21A5DEB6C}
+		{2E29D649-EFE5-4CF6-9AD2-5A86A8689458} = {F36C1347-E12A-42F5-9CA8-10A21A5DEB6C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {86B9E45D-DE68-42DF-84DD-40EC83C3C22D}

@@ -1,0 +1,15 @@
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\FrogJmp\bin\Debug\net6.0\FrogJmp.exe
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\FrogJmp\bin\Debug\net6.0\FrogJmp.deps.json
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\FrogJmp\bin\Debug\net6.0\FrogJmp.runtimeconfig.json
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\FrogJmp\bin\Debug\net6.0\FrogJmp.dll
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\FrogJmp\bin\Debug\net6.0\ref\FrogJmp.dll
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\FrogJmp\bin\Debug\net6.0\FrogJmp.pdb
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\FrogJmp\obj\Debug\net6.0\FrogJmp.csproj.AssemblyReference.cache
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\FrogJmp\obj\Debug\net6.0\FrogJmp.GeneratedMSBuildEditorConfig.editorconfig
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\FrogJmp\obj\Debug\net6.0\FrogJmp.AssemblyInfoInputs.cache
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\FrogJmp\obj\Debug\net6.0\FrogJmp.AssemblyInfo.cs
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\FrogJmp\obj\Debug\net6.0\FrogJmp.csproj.CoreCompileInputs.cache
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\FrogJmp\obj\Debug\net6.0\FrogJmp.dll
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\FrogJmp\obj\Debug\net6.0\ref\FrogJmp.dll
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\FrogJmp\obj\Debug\net6.0\FrogJmp.pdb
+C:\YouTube\Algorithm\AlgorithmExercises\Codility\Easy\FrogJmp\obj\Debug\net6.0\FrogJmp.genruntimeconfig.cache

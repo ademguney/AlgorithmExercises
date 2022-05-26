@@ -300,7 +300,17 @@
       "ProjectGuid": "96186d06-b47f-4282-9011-76ff22db5098",
       "DisplayName": "VowelsAndConsonants",
       "ColorIndex": 10
+    },
+    "ce111961-e4df-4dc8-a65b-eb6ba21a0acf": {
+      "ProjectGuid": "ce111961-e4df-4dc8-a65b-eb6ba21a0acf",
+      "DisplayName": "OddOccurrencesInArray",
+      "ColorIndex": 11
+    },
+    "381731dd-92ff-4fed-816b-a845fd7205b0": {
+      "ProjectGuid": "381731dd-92ff-4fed-816b-a845fd7205b0",
+      "DisplayName": "FrogJmp",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 13
 }
