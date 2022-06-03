@@ -310,7 +310,12 @@
       "ProjectGuid": "381731dd-92ff-4fed-816b-a845fd7205b0",
       "DisplayName": "FrogJmp",
       "ColorIndex": 12
+    },
+    "2e29d649-efe5-4cf6-9ad2-5a86a8689458": {
+      "ProjectGuid": "2e29d649-efe5-4cf6-9ad2-5a86a8689458",
+      "DisplayName": "FrogJmp",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 14
 }
