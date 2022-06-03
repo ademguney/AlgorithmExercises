@@ -30,3 +30,4 @@ Challenge   |Difficulty | Solution |
 ### Google (Random Questions)
 Challenge   |Difficulty | Solution |
 :----------:|:---------:|:--------:|
+[Fibonacci Series](https://en.wikipedia.org/wiki/Fibonacci_number)|Easy| [C#](https://github.com/ademguney/AlgorithmExercises/blob/main/Google/Easy/FibonacciSeries/Program.cs)|
